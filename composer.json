@@ -3,7 +3,7 @@
     "description": "Simple Commission Calculator",
     "autoload": {
         "psr-4": {
-            "Przemyslawszwaczka\\CommissionCalculator\\": "src/"
+            "CommissionCalculator\\": "src/"
         }
     },
     "authors": [
