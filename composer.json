@@ -6,6 +6,11 @@
             "CommissionCalculator\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "CommissionCalculator\\Tests\\": "tests/"
+        }
+    },
     "authors": [
         {
             "name": "Przemysław Szwaczka"
