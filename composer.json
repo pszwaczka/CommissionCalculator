@@ -1,0 +1,15 @@
+{
+    "name": "przemyslawszwaczka/commission-calculator",
+    "description": "Simple Commission Calculator",
+    "autoload": {
+        "psr-4": {
+            "Przemyslawszwaczka\\CommissionCalculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Przemysław Szwaczka"
+        }
+    ],
+    "require": {}
+}
