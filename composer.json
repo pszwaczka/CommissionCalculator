@@ -21,6 +21,8 @@
     },
     "require": {
         "league/iso3166": "^4.3",
-        "alcohol/iso4217": "^4.1"
+        "alcohol/iso4217": "^4.1",
+        "psr/container": "^2.0",
+        "php-di/php-di": "^7.0"
     }
 }
